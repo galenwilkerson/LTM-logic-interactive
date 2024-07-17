@@ -1,6 +1,8 @@
 # LTM Simulation
 
-<img src="./ltm.png" width="450" height="400">
+<img src="./ltm.png" width="300" height="300">
+
+[Run the Simulation](http://galenwilkerson.github.io/ltm_logic_3.html)
 
 This repository contains an interactive simulation of the Linear Threshold Model (LTM), which demonstrates the logic functions computed by the model. 
 
@@ -14,10 +16,6 @@ The LTM represents one of the simplest models of the emergence of information pr
 - Start, stop, and regenerate the simulation with buttons.
 
 ## Usage
-
-You can run the simulation online at the following link:
-
-[Run the Simulation](http://galenwilkerson.github.io/ltm_logic_3.html)
 
 The repository for this project is available at:
 
