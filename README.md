@@ -1,6 +1,8 @@
 # LTM Simulation
 
-This repository contains an interactive simulation of the Linear Threshold Model (LTM), which demonstrates the logic functions computed by the model. The LTM represents one of the simplest models of the emergence of information processing in systems and is considered universal due to its connection to percolation theory (see Watts). This model helps in understanding how local interactions can lead to complex global behaviors and spontaneous computation in networks. The simulation allows users to adjust various parameters and observe the behavior of the network.
+This repository contains an interactive simulation of the Linear Threshold Model (LTM), which demonstrates the logic functions computed by the model. 
+
+The LTM represents one of the simplest models of the emergence of information processing in systems and is considered universal due to its connection to percolation theory (see Watts). This model helps in understanding how local interactions can lead to complex global behaviors and spontaneous computation in networks. The simulation allows users to adjust various parameters and observe the behavior of the network.
 
 ## Features
 
