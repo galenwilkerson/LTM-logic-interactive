@@ -25,8 +25,8 @@ The repository for this project is available at:
 
 This simulation is based on the concepts presented in the following papers:
 
-- Wilkerson, G. et al. "Spontaneous Emergence of Computation in Network Cascades." *Nature Scientific Reports*.
-- Watts, D. J. "A Simple Model of Global Cascades on Random Networks." *Proceedings of the National Academy of Sciences*.
+- Wilkerson, G. et al. "Spontaneous Emergence of Computation in Network Cascades." *Nature Scientific Reports*, 2024.
+- Watts, D. J. "A Simple Model of Global Cascades on Random Networks." *Proceedings of the National Academy of Sciences*, 2002.
 
 ## Installation
 
