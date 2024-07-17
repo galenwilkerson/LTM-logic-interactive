@@ -1,6 +1,6 @@
 # LTM Simulation
 
-<img src="./ltm.png" width="300" height="300">
+<img src="./ltm.png" width="350" height="300">
 
 [Run the Simulation](http://galenwilkerson.github.io/ltm_logic_3.html)
 
